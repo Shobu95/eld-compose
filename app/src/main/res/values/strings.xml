@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ELD</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_tutorial_slider">TutorialSlider</string>
+
+    <string name="vehicle_tracking">Vehicle Tracking</string>
+    <string name="health_monitoring">Health Monitoring</string>
+    <string name="fuel_millage">Fuel Millage</string>
+
+    <string name="tutorial_text_1">Track and know the live location of where your vehicle is, right from your mobile application. </string>
+    <string name="tutorial_text_2">Monitor the health and different stats of your car such as battery, engine, air pressure and temperature. </string>
+    <string name="tutorial_text_3">Know how much fuel is left and how much millage your car can achieve with the current fuel. </string>
+    
+    <string name="next">Next</string>
+    <string name="get_started">Get Started</string>
+    <string name="title_register">Register you device.</string>
+    <string name="title_home">Home</string>
+    <string name="title_location">Location</string>
+    <string name="title_profile">Profile</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+
+</resources>
